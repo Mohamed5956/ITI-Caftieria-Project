@@ -1,6 +1,8 @@
 # ITI-Caftieria-Project
 # Team:
-# Mohammed Adel Salah
-# Dina Madany 
-# Lamyaa Mamdouh 
-# Shaymaa Mohammed
+## 1.Mohammed Adel Salah
+## 2.Dina Madany 
+## 3.Shaymaa Mohammed
+## 4.Lamyaa Mamdouh 
+
+# To Start With Our Project You Must Setup The Database First
